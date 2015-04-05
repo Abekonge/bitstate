@@ -31,7 +31,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="3" Created="2010-10-26 08:33:33 +0000" Modified="2015-04-05 20:33:04 +0000" Type="Text">
+                        <BinderItem ID="3" Created="2010-10-26 08:33:33 +0000" Modified="2015-04-05 20:41:27 +0000" Type="Text">
                             <Title>1 Hamed på vej til arbejdsformynderi</Title>
                             <MetaData>
                                 <StatusID>3</StatusID>
@@ -39,7 +39,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2491,2491</TextSelection>
+                                <TextSelection>2486,2486</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -63,13 +63,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="5" Created="2010-11-23 20:38:06 +0000" Modified="2014-10-16 15:45:23 +0000" Type="Text">
+                        <BinderItem ID="5" Created="2010-11-23 20:38:06 +0000" Modified="2015-04-05 20:47:26 +0000" Type="Text">
                             <Title>3 På Kejser Aages arbejdsformynderi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>2758,2758</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -85,7 +86,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1013,1013</TextSelection>
+                                <TextSelection>1055,1045</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -127,13 +128,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="9" Created="2010-11-23 20:46:47 +0000" Modified="2012-01-16 21:14:02 +0000" Type="Text">
+                        <BinderItem ID="9" Created="2010-11-23 20:46:47 +0000" Modified="2015-04-05 21:02:59 +0000" Type="Text">
                             <Title>7 Om skærmen, og Onkel Zagreb</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>3052,3052</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -162,7 +164,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="13" Created="2010-11-23 20:57:02 +0000" Modified="2011-05-08 13:16:30 +0000" Type="Text">
+                        <BinderItem ID="13" Created="2010-11-23 20:57:02 +0000" Modified="2015-04-05 21:04:51 +0000" Type="Text">
                             <Title>1 Ud fra Camp C</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -170,7 +172,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1170,1170</TextSelection>
+                                <TextSelection>1883,1883</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -246,7 +248,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="18" Created="2010-11-23 21:19:02 +0000" Modified="2011-10-08 21:30:48 +0000" Type="Text">
+                        <BinderItem ID="18" Created="2010-11-23 21:19:02 +0000" Modified="2015-04-05 21:19:39 +0000" Type="Text">
                             <Title>6 Tårnet og Yuri</Title>
                             <MetaData>
                                 <StatusID>3</StatusID>
@@ -254,7 +256,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13901,13901</TextSelection>
+                                <TextSelection>9231,9231</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
