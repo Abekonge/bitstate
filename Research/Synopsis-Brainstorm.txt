@@ -1,0 +1,13 @@
+Kyberpunk Kapitel Disposition
+
+Kapitel 1
+
+Hvori vi møder Hamed og hører om hans situation i slægtfængslet Camp C.:::Hamed introduceres ifærd med at reparere hans mors tag - det er utæt regnen trænger ind. Han får en tekst fra Mick, Det er noget med et job, mick bor på fælleden::::::
+
+MM Herefter introduceres Hameds situation og Camp C lidt mere i detaljer i form af en gennemgang af udfordringerne med at ture uden for Camp C... Eventuelt efterfulgt en lille sidehistorie om Hamed onkel der gjorde et eller andet for at give kontekst til verdenen og Hameds familie.
+
+MM Hamed kommer derefter til Fælleden på sin brintdrevne (?) electricassistcykel [spring i tid og sted]. Kort introduktion til Fælleden(?)
+
+MM ______________________
+
+MM Hamede modtager skibets kordinater over nærbåndet, men lægger mærke til at han ikke har forbindelse til dk-net. Han spørger Yuri, der forklarer med inferens og forstyrrelse fra hans helvedesmaskine af en antenne --- han siger at Hamed til gengæld bare kan gå på FreNet -- og hamed siger med naturlighed at han da selvfølgelig ikke kan gå på FreNet og at det desuden er mytologisk i hans verden... Yuri eksklamere og undersøger chokeret hameds skærm og herigennem introduceres vi til dens begrænsninger og dermed nettets arkitektur og opdeling ... Problem: vi har travlt, ladningen skal leveres til skibet - vi skal ikke miste dampen i fortællingen - så det skal fikses på en eller anden måde. 
