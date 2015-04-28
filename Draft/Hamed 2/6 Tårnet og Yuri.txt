@@ -52,7 +52,7 @@ Yuri kigger op: “Er der et problem?” [Det er nødvendigt for yuris mission a
 
 “Lejrnet?”
 
-“Ja, det er en svært handicappet version af DanNet. Jeg ved ikke helt hvad forskrifterne er for hvad man kan og ikke kan, for det meste kan jeg se vejrudsigten og se hvor jeg er på et kort, og nogle nyheder - den slags. Selvfølig også beskeder til asylnægtede, advarsler, trusler, ordre og den slags. Nogle gange lukker det bare ned, det er ret skidt.”
+“Ja, det er en svært handicappet version af DanNet. Jeg ved ikke helt hvad forskrifterne er for hvad man kan og ikke kan, for det meste kan jeg se vejrudsigten og se hvor jeg er på et kort, og nogle nyheder - den slags. Selvfølig også beskeder til asylnægtede, advarsler, ordre og den slags. Nogle gange lukker det bare ned, det er ret skidt.”
 
 “Vil det sige at du aldrig har været på FreNet - aldrig redet den frie information?”
 
@@ -98,7 +98,7 @@ Hamed tænde skærmen og fifler lidt: “Hvordan virker det?”
 
 “Der ligger et link der hedder FreNet - prøv at åbne det.”
 
-Hamed gør som Yuri siger. Fingerer linket så det åbner. Men i stedet for den sædvanlige grafisk animerede metafor for indbundet papir, der så smukt efteraber et dødt medie, er der kun en blinkende cursor i et tomt felt.
+Hamed gør som Yuri siger. Fingerer linket så det åbner. Men i stedet for den sædvanlige grafisk animerede metafor for indbundet papir, der så smukt efteraber et dødt medie, er der kun en blinkende cursor i et tomt felt.[wut?]
 
 “Hvad så nu?”
 
@@ -112,7 +112,7 @@ Hamed taster adressen og kommer frem til et navigations-interface ikke ulig det 
 
 “Kan jeg forbinde til FreNet overalt - og hvorfor er det ikke bedre kendt? Hvorfor er det ikke alle der bruger det?”
 
-“Desværre nej, Tårnet du står i er den primære sender i Danmark - min egen opfindelse - men den dækker kun en radius på 50 km [?]. Ellers er der lokale sender rundt omkring - men langt de fleste steder kan du ikke - og her i København er der flere steder sat antisendere (?) op der disrupter signalet - så du kan ikke regne med det. Engang var det kendt - alt net du kender idag kommer fra FreNet's ophav - world wide web, men efterhånden som det blev en ligeså grundlæggende infrastruktur som strøm og vand - tog de overstatslige organer og  regeringer og dødskapitalister initiativ til i større og større grad at indhegne nettets forskellige dele - så de kunne kontrolleres og værdisættes og opkræves penge for og overvåges - såkald walled garden filosofi. Og det originale www blev marginaliseret og undertrykt. Nu kun holdt i live af entusiaster og aktivister - langsomt og ustabilt. Men vi har stadig fordelene og overalt bliver der lavet nye piratsendere - dog er det en kamp op ad bakke. Desværre er vi stemplet som havn for terrorister, hackere, og pædofile osv.”
+“Desværre nej, Tårnet du står i er den primære sender i Danmark - min egen opfindelse - men den dækker kun en radius på 50 km [?]. Ellers er der lokale sendere rundt omkring - men langt de fleste steder kan du ikke - og her i København er der flere steder sat antisendere (?) op der disrupter signalet - så du kan ikke regne med det. Engang var det kendt - alt net du kender idag kommer fra FreNet's ophav - world wide web, men efterhånden som det blev en ligeså grundlæggende infrastruktur som strøm og vand - tog de overstatslige organer og  regeringer og dødskapitalister initiativ til i større og større grad at indhegne nettets forskellige dele - så de kunne kontrolleres og værdisættes og opkræves penge for og overvåges. Og det originale www blev marginaliseret og undertrykt. Nu kun holdt i live af entusiaster og aktivister - langsomt og ustabilt. Men vi har stadig fordelene og overalt bliver der lavet nye piratsendere - dog er det en kamp op ad bakke. Desværre er vi stemplet som havn for terrorister, hackere, og pædofile osv.”
 
 Yuri vender sig om mod den store skærm igen, og fremmaner et kort hvorpå Hameds destination - skibet i Nordhavn var påduttet blinkende kryds: “Det er vigtigt for den her mission at du kun bruger netservices over FreNet. Men som en ekstra bonus - jeg har lagt et program der hedder SpredFreNet, med det kan du patche andre Lejrskærme med FreNet-adgang - de skal bare acceptere det over nærbåndet. Så kan du sprede budskabet lidt. Sjovt nok er Camp C et af de steder i CPH der er bedst modtagelse af FreNet - så der burde være let adgang for alle.”
 
