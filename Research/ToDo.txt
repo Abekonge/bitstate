@@ -1,15 +1,15 @@
 TO DO
 
-• personligser kejserens dialog
+â€¢ personligser kejserens dialog
 
-• få hameds fysiske ydre beskrevet (oder?) og bedre dialogiseret ...
+â€¢ fÃ¥ hameds fysiske ydre beskrevet (oder?) og bedre dialogiseret ...
 
-• introducer freenet bedre somewhere, eller nævn det i et sted i begyndelsen i forbindelse med hameds skærmbrug -- plus, har Hamed adgang til Freenet?? ja nej måske hacked??
+â€¢ introducer freenet bedre somewhere, eller nÃ¦vn det i et sted i begyndelsen i forbindelse med hameds skÃ¦rmbrug -- plus, har Hamed adgang til Freenet?? ja nej mÃ¥ske hacked?Í„
 
-• reintegrer Jakjak, make him more real and less sucky
+â€¢ reintegrer Jakjak, make him more real and less sucky
 
-• hameds messengertaske?
+â€¢ hameds messengertaske?
 
-• skærmen lytter? change stuff
+â€¢ skÃ¦rmen lytter? change stuff
 
-- Indfør baggrund for parkour HVIS det skal være med …
+- IndfÃ¸r baggrund for parkour HVIS det skal vÃ¦re med â€¦
