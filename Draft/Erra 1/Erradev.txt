@@ -1,0 +1,20 @@
+Hvad er det nye job?
+Hvor er vi i Bitstates udvikling? vi har en tidlig alfa ude, hvad kan den? Der er den grundlæggende betal hver måned - få dividende. Er der arbejdsformidling? Er der stemmeret?
+
+Hvordan bliver bitstate udviklet? Først var der nogen ukendte der lagde den første version op, med følgende funktionalitet:
+
+- Stille forslag om opgaver, med budget
+- stemme om forslag
+- Opgaveformidling
+- Udbetaling af "løn"
+- Beskatning af løn
+- Opkrævning af grundskat
+- Udbetaling af borgerløn
+
+op. Inde i bitstate blev der så i arbejdsformidlingen stemt om hvilket udviklingsopgaver der skulle udbydes. Og disse opgaver kunne så påtages af bitizens. PÅ den måde bliver den en self-governing self-developing entity.
+
+Hvordan bliver identitet bekræftiget - hvordan beviser man at man er et unikt menneske. Captchas? Eller en afart af biocryptomining? Kan man lave et cryptographic hash af et menneske? Af et gensæt?
+IDE: en afart af blockchains : mindst 10 bitizens skal godkende at man er et rigtigt menneske, og signe med deres private key.(?) Desuden skal man jo faktisk betale for at være med i bitstate. ~~
+
+//Ligeledes kan Hamed være indvolveret i et bitstate-job hvor Yuri er controller!!!
+

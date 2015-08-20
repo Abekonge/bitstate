@@ -1,0 +1,9 @@
+Bitstates arkitektur
+
+Bitstates arkitektur ligger på decentralt anonym hosting, der er baseret på TOR og bittorrent.
+
+Beslutninger kører på en fork af bitcoin, hvor man får tildelt stemmer baseret på ens medlemskab af bitstate, dvs. et væsen = 1 stemme per afstemning. Blockchain er den decentrale database ledger der holder styr på at alt er rigtigt og at der ikke kan snydes.
+
+Rettigheder i forhold til at modificere kode, at committe kode til bitstate, styres samtidig af blockchain: 
+
+En afstemning der afgør om noget skal ændres eller tilføjes til Bitstates kode, skal i sin opsætning definere hvilke områder der skal gives adgang til i koden, og hvem der evt får adgang til koden. Så hvis de rigtige afstemninger bliver gemt i blockchain og giver en specifik udvikler adgang til at committe kode til et område af bitstate, så kan bitstates kilde-repo tjekke om de rent faktisk har adgang, ved et simpelt opslag i blockchain. På den måde er det decentrale direkte demokrati sikret i alle områder af Bitstates udvikling.
