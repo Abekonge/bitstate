@@ -14,6 +14,8 @@ Spøgsmål:
 	ToDo: 
 	* Find ud af hvordan og Hvorfor Frontex tracker Hamed.
 		Frontex tracker bare Hamed fordi, han har skudt en drone ned ... yes!
+		Problem: Hamed kan ikke bruges mere hvis han er i fængsel(?)
+		Løsning: Brug fængslet til at vise Hamed et og andet.
 	* Tilpas plottet så det giver mening i forhold til det.
 		Hvis Frontex tracker hamed giver begivenhederne på nytorv ikke mening - rewrite & reshoot!
 	* Men hvem arbejder #Hellgirl så for? Se det er et mysterie ...	
