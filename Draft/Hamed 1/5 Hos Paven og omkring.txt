@@ -34,13 +34,15 @@ Hans øjne er blodskudte fra den åbne esse, han sænker langsomt hammeren.
 
 Hvorfor har du sat den i et  bur, spørger Ersük? Er du bange for den flyver væk?
 
-"Ha nej," klukker Paven, "det kunne ellers være fint - droner som kæledyr. Nej det her er et faraday-bur - det blokerer elektromagnetiske signaler fra at komme ud og ind, så vi er helt sikre på dronen ikke ringer efter hjælp."
+"Ha nej," klukker Paven, "det kunne ellers være fint - droner som kæledyr. Nej det her er et Faraday-bur - det blokerer elektromagnetiske signaler fra at komme ud og ind, så vi er helt sikre på dronen ikke ringer efter hjælp."
 
-Paven roder i en bunke og tager en lille grøn 12kantet dims  og kaster den ind i buret. "Denne sensor registerer stråling, så vi kan se om i blevet tracked hele tiden - om vi bliver tazed og svinebundet om få minutter.” ".
+"Wow hvor fedt", siger Hamed, "hvordan virker det - skal det bare være et bur?"
 
-Kort efter tager Paven dimsen ud og smækker buret i igen. Han tager en skærm-lignende gadget op ad sit læder-forklæde og forbinder den med edimes med en lille sort ledning. Hamed er gået tættere på og prøver at følge med. Paven trykker lidt på sin gadget og ser tænksom ud: “Den sender stadig, men med meget svage signaler. Medmindre den var direkte kontrolleret fra nærområdet burde vi være i sikkerhed.”
+"Det er magi," Paven hoster, roder i bunker og skuffer, prøver at finde noget, "Nej, når buret er af strømledende materiale, kan elektromagnetisme ikke komme ind og ud. En bil er et Faraday-bur, derfor sikkert for lyn. Men størrelsen af hullerne i buret afgør hvad der slipper ud, så i en bil kan du bruge din skærm. Fordi skærme kommunikerer med bølgelængder der sagtens kan komme ud af vindue, 14 cm. Intet problem. Hvis du skal blokere skæmsignaler skal hullerne være mindre en 3 cm. Men det er ikke perfekt." Paven hiver en lille 12kantet plastiskdims ud af rodet, "Hai! Der var den." Han åbner hurtigt buret og smider den derind. "Det her er en signal-recorder, så vi kan vinde ud af om vi bliver tazed og svinebundet om lidt."
 
-Ërsuk sukker og bliver synligt mere rolig: “Puh, han er gal ham Ffoto. Skyder han tit droner ned?”
+Kort efter tager Paven dimsen ud og smækker buret i. Han tager en skærm-lignende gadget op ad sit læder-forklæde og forbinder den til dimsen med en lille sort ledning. Hamed går tættere på og prøver at følge med. Paven trykker lidt på sin gadget og ser tænksom ud: “Den sender stadig, men med meget svage signaler. Medmindre den var direkte kontrolleret fra nærområdet burde vi være i sikkerhed.”
+
+Ërsuk ånder og bliver synligt mere rolig: “Puh, han er gal ham Ffoto. Skyder han tit droner ned?”
 
 “Måske. Han er kommet slæbende et par gange med nogle til min samling,” Paven vifter over mod et hjørne hvor et veritabelt dron-galleri er opstillet: “Til gengæld holder jeg hans suppe-udskænker i tip top stand. Det er derfor hans suppe er så lækker.”
 
@@ -50,8 +52,22 @@ Hamed kigger nærmere på dronen i buret. Den er lidt størrere end han først t
 
 “Måske. Jeg skal se nærmere på indmaden - og jeg har helt sikkert ikke reservedele, men måske. Kig ind om et par dage.”
 
-Hamed nikker: “Tak ... tak.”
+Da Hamed og Ersük er udenfor igen, spørger Hamed: "Hvorfor hedder han Paven?"
 
-Da de er kommet ud fra workshoppen spørger Hamed: “Du Ërsuk, hvad hedder Paven egentligt - man kan vel ikke kalde ham Paven til hans ansigt?”
+"Aner det ikke," Ersük trækker på skuldrene, "måske er han katolik? Han har engang fortalt mig at når der skal vælges en ny pave, så sidder alle kardinalerne i et kæmpe Faraday bur, så ingen kan sende data ud eller ind."
 
-“Jeg ved det ikke, jeg har hørt andre kalde ham Alan, men jeg er ikke sikker. Jeg tror ikke han har så mange venner... Måske er der ingen der ved det.”
+Døren til smedjen går op og Paven står der, alvorlig panderynken: "Hamed, Ersük, jeg skal sige - jeg får kæmpe problemer hvis en falden dron bliver sporet hertil - i skal sværge wallah at I skærmer dronen næste gang, og at I aldrig siger det til nogen - ok?
+
+Hamed og Ersük nikker intenst. Paven fortsætter, "det nemmeste er at pakke droner ind i sølvpapir, jeg har  ruller her," Paven rækker en rulle sølvpapir til først Ersük og så Hamed. "I skal bruge fire lag, for en sikkerheds skyld." Han stirrer på dem, "Forstår I?"
+
+"Ja wallah, vi forstår," Hamed er lidt bange for Paven, "vi gør det ikke igen".
+
+"Nej ikke sådan, jeg vil meget gerne have droner, jeg vil også betale for flere. Det jeg ikke vil have er at Frontex kommer på besøg. Smut så med jer!"
+
+"O-kay," siger Hamed. Men døren er allerede lukket. Hamed og Ersük kigger på hinanden, begynder at grine.
+
+"Vi skal være dronjægere, Hamed. Ha - vi må skaffe slangebøsser!"
+
+"Ja for helvede, vildt! Onkel Ffoto kan måske hjælpe." Hamed kommer i tanker om jobbet, "men ikke nu Ersük, jeg skal hjem og har job imorgen. Vi snakkes!"
+
+"Ok, senere Hamed," Ersük forsvinder efter sin cykel og Hamed begynder at løbe tilbage mod blok 38.
