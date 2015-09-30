@@ -1,0 +1,7 @@
+Genome as private key? Or password to private key?
+
+Uses:
+
+1) secure (?) (but if its data, it can be stolen). But if biological sampling is the only input method = secure. 
+
+2) Prove that you are an actual human being.
