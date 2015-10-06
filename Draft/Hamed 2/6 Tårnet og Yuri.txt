@@ -36,9 +36,12 @@ Hamed stopper op, ser den enorme samovar i sølv og enamel, rigt udsmykket med f
 
 "Ude i Nordhavn?"
 
-"Ja, der finder du NS Abadabadaj, det er en tidligere hvalfanger."
+"Ja, NS Abadabadaj, det er en tidligere hvalfanger. NS står for Nuclear Ship, det er en atomdrevet hvalfanger."
 
-<problem>
+"Atomdrevet? Altså ... som i atomkraftværk?" Hamed er næsten sikker på at den gamle laver fis med ham. "Er det normalt?"
+
+"Nej så absolut ikke. Den tidligere ejer er lidt speciel. Det kan jeg fortælle dig om en anden gang. De venter dig, så du kan gå lige ombord
+
 Yuri tager selv en enhed fra bordet og gør nogle fagter på den: “ Jeg sender dig GLONASS-kordinaterne til Novo Fortuyn [hvad er det, et andet skibsnavn]. De venter dig, så du kan gå lige om bord.”
 
 Hamed kigger på sin skærm, han indikere at han gerne vil modtage forsendelsen via nærbåndet. Hamed venter stirrende på skærmens stilstand, der er noget der ikke virker. Skærmen skriver:
