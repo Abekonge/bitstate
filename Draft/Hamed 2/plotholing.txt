@@ -28,8 +28,10 @@ Så hvis yuri eksperimenterer med løsninger for eksempel for levering af internet
 Men hvordan starter denne snak med Yuri ...?
 
 Måske kan yuri give hamed en beta-invitation til BitState, som blive udvej senere?
-
+	HVordan starter denne snak? Lige nu er vi i total instruks-mode ...?
+	
 Hvordan kan Hamed få adgang til bitstate betatest fra LejrNet?
+	Tor dark net? Hvordan virker de lukkede net? Er det et opt-out eller opt-in. Altså skal alt godkendes, før det er med, eller skal ting forbydes?
 	
 
 	
