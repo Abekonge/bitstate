@@ -1,3 +1,100 @@
 "Hvis personen på skibet, det kan jo lige så godt være en dame, det ved du ikke, ikke er dem de burde være, hvis de er kompromiterede af Frontex, er det det du mener?"
 
 "Frontex?" Hamed bliver bange, "Hvad har Frontex med noget at gøre?"
+
+
+
+Yuri tager selv en enhed fra bordet og gør nogle fagter på den: “ Jeg sender dig GLONASS-kordinaterne til Novo Fortuyn [hvad er det, et andet skibsnavn]. De venter dig, så du kan gå lige om bord.”
+
+Hamed kigger på sin skærm, han indikere at han gerne vil modtage forsendelsen via nærbåndet. Hamed venter stirrende på skærmens stilstand, der er noget der ikke virker. Skærmen skriver:
+
+“DU PRØVER AT MODTAGE DATA IGENNEM ET UOFFICIELT NETVÆRK DER BRUGES AF HACKERE OG TERRORISTER. NETVÆRKET ER KORRUPT OG ØDELÆGGER DATA. ABORT-19”.
+
+Yuri kigger op: “Er der et problem?” [Det er nødvendigt for yuris mission at hamed kan gå på FreNet - change things]
+
+“Ja. Jeg kan ikke modtage over dit netværk, den siger det er korrupt.”
+
+“Korrupt! Ja det siger den vel. Din dims der, den kan ikke forbinde med FreNet?”
+
+“Nej den forbinder kun med Lejrnet.”
+
+“Lejrnet?”
+
+“Ja, det er en svært handicappet version af DanNet. Jeg ved ikke helt hvad forskrifterne er for hvad man kan og ikke kan, for det meste kan jeg se vejrudsigten og se hvor jeg er på et kort, og nogle nyheder - den slags. Selvfølig også beskeder til asylnægtede, advarsler, ordre og den slags. Nogle gange lukker det bare ned, det er ret skidt.”
+
+“Vil det sige at du aldrig har været på FreNet - aldrig redet den frie information?”
+
+“Altså, mekanikeren i Camp C - Paven, han havde en gammel desktop-box hooked up igennem nogle piratkabler for nogle år siden - før de begyndte at raide hans workshop regelmæssigt. Mig og nogle venner vi var inde og se ...du ved ...”
+
+“I så porno?”
+
+“Nej altså, bare bryster, bare bare bryster - du ved...”, Hamed kigger ukomfortabelt igennem et hul i væggen, det ser ud som om der er en brand inde i byen, tyk fed røg over varmeflimmer i NordVest.
+
+“Og det er det eneste du har set af FreNet?”
+
+“Øh ja.”
+
+“I guder. Er der så ingen i Camp C der har adgang?”
+
+“Niks, det er heller ikke tilladt at forbinde til uofficielle netværk - da Pavens piratkabler endeligt blev opdaget, beskar de hans kupontildeling helt vildt i flere måneder - han måtte leve af skrald...”
+
+“Hmm ...” Yuri går i stå et øjeblik med blikket fæstnet et sted over Hameds ene øre.
+
+Efter et øjeblik går han hen foran Hamed og rækker en håret næve ned mod skærmen: “Må jeg se dit apparat?”
+
+“Øh det må du vel”, Hamed rækker skærmen frem, Yuri tager den og går tilbage til sin konsol under den store skærm, i en skuffe finder han et multitool og begynder at lirke coveret af skærmen. 
+
+Hamed nærmer sig: “Øhh ved du hvad du gør?”
+
+“Ja ja, har du aldrig skilt den ad?”, coveret komme af skærmen med en helt forkert lyd.”
+
+“Øh nej, hvis den går i stykker kan jeg ikke købe mad, og jeg skal betale for en ny. Med renter. Og den er dyr.”
+
+“Tsk tsk. Man skal altid skille ting ad - hvordan skulle man ellers vide hvordan den virker, hvordan skulle man ellers lære noget - eller kunne stole på sine værktøj. Da jeg var ung, levede jeg af at skille mobiltelefoner ad...”, Yuri tager nogle kabler og pådutter dem forskellige steder inde i selve skærmen. På den store skærm kører han nogle konsoller som Hamed gætter på tapper ind i skærmens software og muligvis ændrer på det.
+
+“Hmm, jeg prøver at lave en firmware patch der spreder sig som en wireless virus via lejrskærmens device-id-grab - så du eventuelt kan give andre i lejren adgang til FreNet. Hmm interessant. Skærmen her har en hel bunke af consistency-checks - den undersøger hele tiden om der er nogle der har rodet med den og rapportere tilbage til en mother-server regelmæssigt. Men det er et klassisk erkendelses-problem, for at vide om den er som den tror den er, skal den have noget at sammenligne med - en reference at søge tilbage til, men hvordan ved man at referencen ikke også er ændret - så vi ændrer dens parametre for intern consistency til at være defineret af hvad dens sensorparametre fortæller den - og laver dermed et loop af evig okay-hed - hæ det skal sgu nok forvirre dem inde på Centralen.”, Yuri frakobler ledningerne og skruer bagsiden på. [teknokbabl der ikke er godt!]
+
+“Jeg forstår ikke - du fortæller maskinen at der ikke er sket nogle ændringer da den kun har ændringerne at sammenligne med? Altså jeg kan i princippet blive uden for Camp C uden den rapporterer det, for den kan vel ikke vide at den er ude hvis den ikke ved der er et inde?”
+
+“I princippet har du ret - men det er slet ikke de rutiner jeg har ændret - den rapportere jo stadig GLONASS-koordinaterne - så hvis nogle så efter ville de kunne se at noget var galt ... - altså de ville være mere kompliceret at ændre. Jeg har bare pillet ved de helt grundlæggende anti-probe-rutiner.”
+
+“Nå men har jeg så adgang til FreNet?”
+
+“Ja,” Yuri giver Hamed den modificerede skærm: “De frie netborgeres sidste bastion, den rygende ruin af www, resterne af menneskehedens fineste skabning: FreNet er i dine hænder!”
+
+Hamed tænde skærmen og fifler lidt: “Hvordan virker det?”
+
+“Der ligger et link der hedder FreNet - prøv at åbne det.”
+
+Hamed gør som Yuri siger. Fingerer linket så det åbner. Men i stedet for den sædvanlige grafisk animerede metafor for indbundet papir, der så smukt efteraber et dødt medie, er der kun en blinkende cursor i et tomt felt.[wut?]
+
+“Hvad så nu?”
+
+“Du skal skrive adressen på det du gerne vil se. Hvis du for eksempel vil bruge de kordinater jeg lige sendte dig skal du gå ind på 'FreGlonass.net'”
+
+Hamed taster adressen og kommer frem til et navigations-interface ikke ulig det han i forvejen har, Yuri gensender kordinaterne og Hamed får efter lidt ventetid en placering ude i Nordhavn, et par meter ude i vandet. Ved krydset står der 'MS ABADABADAJ'.
+
+“Det virker jo fint nok, men det er altså meget nemmere bare at bruge mit normale kort...”
+
+“Ja det er det, og det er det der er problemet. Centralen ved hele tiden hvor du er, men når du bruger dit normale kort til at navigere efter ved de også hvor du vil hen og hvor du ville hen igår og for en måned siden kl 23 - hvilket er guld værd i deres prediction-modeller - det giver dem adgang til dine planer, til hvordan du tænker. Men når du navigerer ved hjælp af FreNet ved de ikke noget - mellemmanden er skåret væk, eller det vil sige - mellemmanden er et kaotisk distribueret netværk uden logning. Men altså, du kan gemme FreGlonass.Net som et andet dokument - og så det næsten lige så hurtigt som dit normale kort” [spred FreNet?]
+
+“Kan jeg forbinde til FreNet overalt - og hvorfor er det ikke bedre kendt? Hvorfor er det ikke alle der bruger det?”
+
+“Desværre nej, Tårnet du står i er den primære sender i Danmark - min egen opfindelse - men den dækker kun en radius på 50 km [?]. Ellers er der lokale sendere rundt omkring - men langt de fleste steder kan du ikke - og her i København er der flere steder sat antisendere (?) op der disrupter signalet - så du kan ikke regne med det. Engang var det kendt - alt net du kender idag kommer fra FreNet's ophav - world wide web, men efterhånden som det blev en ligeså grundlæggende infrastruktur som strøm og vand - tog de overstatslige organer og  regeringer og dødskapitalister initiativ til i større og større grad at indhegne nettets forskellige dele - så de kunne kontrolleres og værdisættes og opkræves penge for og overvåges. Og det originale www blev marginaliseret og undertrykt. Nu kun holdt i live af entusiaster og aktivister - langsomt og ustabilt. Men vi har stadig fordelene og overalt bliver der lavet nye piratsendere - dog er det en kamp op ad bakke. Desværre er vi stemplet som havn for terrorister, hackere, og pædofile osv.”
+
+Yuri vender sig om mod den store skærm igen, og fremmaner et kort hvorpå Hameds destination - skibet i Nordhavn var påduttet blinkende kryds: “Det er vigtigt for den her mission at du kun bruger netservices over FreNet. Men som en ekstra bonus - jeg har lagt et program der hedder SpredFreNet, med det kan du patche andre Lejrskærme med FreNet-adgang - de skal bare acceptere det over nærbåndet. Så kan du sprede budskabet lidt. Sjovt nok er Camp C et af de steder i CPH der er bedst modtagelse af FreNet - så der burde være let adgang for alle.”
+
+Hamed føler sin skærm brænde i hånden som et trådlåst virus-informations-fyrtårn af muligheder: “Det er virkelig sejt - kan vi ... kan vi sende beskeder der ikke bliver overvåget også - kan vi undgå det?”. 
+
+En udbredt sygdom i Camp C er en form for omvendt paranoia - den livslange bevidsthed om at alt bliver overvåget - alle tekster læst, alt lyd aflyttet - gjorde at nogle kørte et konstant kommentator spor til deres eget liv - hele tiden skrev om deres status - ikke til nogen specielt men kun til ære for overvågerne - en slags spejlende bekræftigelse af eksistens. Hameds fætter HRung omtalte f.eks kun sig selv i tredje person som en effekt af denne sygdom.
+
+“Ork ja - det er nærmest et af de allerbedste måder at bruge FreNet på - du kan for eksempel bruge chitchat.net - eller søge efter lignende services på altavista.Com /ændr- det er sted hvor du kan søge på FreNet efter lige hvad du vil. Et af hemmelighederne ved FreNet er at alt hvad der nogensinde har stået på www gemmer sig et sted herinde, nogle ting i arkiver, nogle ting i deep web - men det er der - så det er en informationskilde af ufattelige dimensioner - hvis man ved hvordan man skal bruge det”
+
+“Det er godt!” Hamed står lidt og ved ikke hvordan han skal håndtere disse muligheder - uovervåget kommunikations revolutionære potens kogende lige under hans sinds beviste overflade.
+
+Yuri tager initiativet: “Så altså - levér kufferten til Niels på Novo Fortuyn - de venter dig. Inden klokken 18 - brug kun FreNet-services til navigation og kommunikation angående opgaven.”
+
+“Hvordan får jeg fat i dig?”
+
+“Det gør du ikke - jeg får fat i dig. Skriv et indlæg på forummet på tongxinglianhaitun.cn under navnet astroboy - så svarer jeg dig. Hvis du klarer opgaven kan der være flere jobs. Held og lykke.” [info til hamed hvordan - tænk over frenet-struktur]. /ændr
+
