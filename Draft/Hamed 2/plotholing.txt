@@ -34,9 +34,41 @@ Hvordan kan Hamed få adgang til bitstate betatest fra LejrNet?
 	Tor dark net? Hvordan virker de lukkede net? Er det et opt-out eller opt-in. Altså skal alt godkendes, før det er med, eller skal ting forbydes?
 	
 Mystisk wifi - leveret af tårnet?
-	
 
-	
+Men hvis der er DanNet og LejrNet - det bliver nødt til at blive mere gennemtænkt...
+
+Givet en ond sammensværgelse imellem infotech hyperkapitalister og nationale state (Tipia pipa, already is) = så vil de gerne blokke for eksempel pirate bay proxyer. Er det langt ude at forestille sig at de kunne gøre det over dns. jahaha det gør de allerede. Men ok, det er let nok at komme forbi. Hvad hvis det blev gjort mere som great firewall of china, hvor man også blokerede ip-adresser?? på isp niveau? Ville de gøre det? jada. Ok. Det er også til at forestille sig at man ville blokere vpn'er, og den slags - fordi der kunne også en endnu ondere sammensværgelse imellem infotech hyperkapitalister og efterretningstjenester... hyperkapitalister vil vide alt om deres brugere. Efteretningstjenester vil vide alt om deres brugere... - 
+
+Men ville man kalde det DanNet? Nej. Man ville kalde det internettet, der bare var meget blokeret ... medmindre jeg skal bruge det som et fortællerteknisk greb? for lissóm at overdrive ...
+
+Men er det en internetaktitektonisk tekno-thriller vi skriver nu? Nej ikke rigtig. Den kamp er også interessant, men for langsom til at være sci-fi slambang / for kedeligt. Det kan være backdrop. men skal ikke være definerende for historien.
+
+
+Så Tårnets infrastrukturelle plotmæssige potentiale:
+
+Et BitState-adgangsgivende hack
+Givet at BitState bliver kina-blokeret, fordi det er for revo, hvordan skal det så distribueres? Hvis folk ikke er hackere eller det bare er umuligt - så sidder ISPerne på fucking lortet. Og Lejr-ISP er de værste. MEN hvis man har en anden forbindelse der er en uafhængig ISP, for eksempel Sattelitweb fra Ydre Mongoliet. Givet man ved hvor man vil give adgang, kan man vel teknisk set SSID spoofe det lokale netværk og give alle på location adgang, selv om de ikke engang har adgang til at styre hvilke wifi de vil på. Som kunne være tilfældet med lejrnet ... jaaa!
+SSID spoofing: http://www.wi-fiplanet.com/tutorials/article.php/3656661/Getting-Phished-Why-SSID-Spoofing-Still-Matters.htm
+
+Problem, det er meget svagt for angreb fra lokale myndigheder ... medmindre det kan fårking beames ned fra space ... Men det kunne måske være en testing ground for Yuri prøver at udvikle løsninger på det her ... det er et seperat problem for BitState ... så hvis Yuri kører test med tårnet for at teste SSID spoofing løsning ... kan det lede til at Hamed bliver en del af det eksperiment (også)... og i processen bliver introduceret til BitState and all that shit...
+
+Bitstate har to grundlæggende infrastrukturelle problemer:
+
+1) Hvordan forhindrer de at myndighederne sparker døren ind og river serveren ud af væggen...
+
+// a. har backupservere, bland andet i internationale farvande ... (der sipphoner fra central-nerve-kabler! haha)
+// b. er distribueret, decentralt og krypteret a la bitcoin.
+
+2) Hvordan sørger de for at folk verden over kan få adgang til BitState selv om adressen er blokeret af alverdens nationer og ISP'er?
+// a. Bruger alternative netforbindelser, som fra Tårnet (hvor får tårnet sin netværksforbindelse frA?)
+// b. sender wifi fra det ydre rum -- jaaa
+
+
+
+
+
+
+
 
 
 
