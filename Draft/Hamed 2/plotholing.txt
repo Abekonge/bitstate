@@ -62,6 +62,18 @@ Bitstate har to grundlæggende infrastrukturelle problemer:
 2) Hvordan sørger de for at folk verden over kan få adgang til BitState selv om adressen er blokeret af alverdens nationer og ISP'er?
 // a. Bruger alternative netforbindelser, som fra Tårnet (hvor får tårnet sin netværksforbindelse frA?)
 // b. sender wifi fra det ydre rum -- jaaa
+//c. Bruger SSID spoofing til devices der er låste...
+
+
+Så givet yuri er en del af et hold der struggler med de her problemer i bitstate regi... så er han medvirkende til en af backup-planerne, få en server på NordAtlanten ...
+
+Derudover eksperimenterer han på løsninger for lokal blokering af BitState / geolocking. Spørgsmålet er om det er et problem BitState har, eller et problem BitState regner med at få?
+
+Hvis det nu var lige nu at BitState blev lanceret. Så ville det jo bare ligge på bitstate.world (?) eller så noget. Og virke. Så det gør det vel også her? Medmindre vi etablere en helt anden grad af censur? 
+
+Så på DanNet, der har man adgang endnu? men ikke på Lejrnet? jJa!
+
+Så hvad laver Yuri med Tårnet udover at han leger med droner og alt så noget? Han eksperimenterer med wireless protokoller, at tilbyde ucensureret net? eller bare protokoller og modtagelse? OG dronspoofing? Så hvad svarer han Hamed - han stoler ikke nødvendigvis på Hamed? Men jo det gør han jo... Kejser Aage trustweb osv. 
 
 
 
