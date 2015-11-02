@@ -75,6 +75,29 @@ Så på DanNet, der har man adgang endnu? men ikke på Lejrnet? jJa!
 
 Så hvad laver Yuri med Tårnet udover at han leger med droner og alt så noget? Han eksperimenterer med wireless protokoller, at tilbyde ucensureret net? eller bare protokoller og modtagelse? OG dronspoofing? Så hvad svarer han Hamed - han stoler ikke nødvendigvis på Hamed? Men jo det gør han jo... Kejser Aage trustweb osv. 
 
+det er bare underligt hvis yuri ikke kender til de begrænsede webs der i for eksempel camp C ...
+
+Vi arbejder med post-delivery Hamed plot her, han skal have adgang til BitState. Der skulle gerne være noget der pushede ham. 
+
+Men hvordan får han adgang? Med en anden device? Han får af Paven? Hvis de nu tager hans device? Men det gør de ikke ...
+
+
+Hvorfor får han adgang?
+	a) Yuri laver et SSID spoofing hack
+		Hvorfor?
+			Som eksperiment.
+		Hvordan kommer det i stand?
+			i tårnet
+			Det er uholdbart, at yuri ville gøre unødigt opmærksom på sig selv...
+			
+	b) Hvis yuri får adgang til Hameds skærm, kan han måske lave et hack, eller finde et hul i sikkerheden, så han kan sætte en portal op som lejrnet godt kan forbinde med, og derigennem i hvert fald DanNet. Den kan også benyttes af andre i Lejren.
+		Hvorfor? Fordi han netop arbejder med det her ... og fordi bitstate er bygget for at bryde ud af dette. 
+
+
+
+ Men hvad med bitstate --- der er gået lidt meget infrastruktur i det - hvordan kommer vi tilbage og swnakker om bitState, gør det relevant?
+
+
 
 
 
