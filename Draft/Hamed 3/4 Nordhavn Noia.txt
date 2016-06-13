@@ -21,19 +21,55 @@ Hamed bliver gennet ind på broen, og møder Sue, en lille korthåret dame med e
 
 Hamed skynder sig forlegent at trække mappen op af tornysteret. "Jeg har denne med til jer." Rækker den frem.
 
-Sue tager mappen uceremonielt og åbner den. En skærm lyser op, blinker spørgende. Hun plukker et lille stik fra bæltet i den og taster 23 cifre ind meget hurtigt. For hurtigt. Hun prøver igen, bander, drevet af trangen til at taste meget hurtigt. Det klonker, en lille låge kan nu åbnes, ud hiver hun en lille rektangulær sølvæske. Hun giver den forsigtigt til Laika, der plokker nogle kabler i den og taster på nogle skærme.
+Sue tager mappen uceremonielt og åbner den. En skærm lyser op, blinker spørgende. Hun plukker et lille stik fra bæltet i den og taster 23 cifre ind meget hurtigt. For hurtigt. Hun prøver igen, bander, drevet af trangen til at taste meget hurtigt. Det klonker, en lille låge kan nu åbnes, ud hiver hun en lille rektangulær sølvæske. Hun giver den forsigtigt til Laika, der plokker nogle kabler i den og taster på skærme.
 
 "Hash passer, det hele tjekker ud." Hun smiler til Hamed. "Godt arbejde".
 
-"Tak. Jeg hedder Hamed, forresten". Står lidt og vipper.
+"Tak. Jeg hedder Hamed. Forresten". Står lidt og vipper.
 
 "Vil du se hvad du har bragt os?" Laika taster videre.
 
-"Det du har bragt os er meget værdifuldt", Sue skubber Hamed hen så han kan se hvad Laika laver på skærmene, "prøv om du kan gætte hvad det er."
+"Det er meget værdifuldt", Sue skubber Hamed hen så han kan se hvad Laika laver på skærmene, "prøv om du kan gætte hvad det er."
 
-Laika er ved at pakke data ud, fra Hameds mappe formodentligt. Taster forskellige init kommandoer i et command line interface. En masse tekst ruller over skærmen, til sidst blinker en enkelt linje hvidt på sort. BitState er live.
+Laika er ved at pakke data ud, fra Hameds mappe formodentligt. Taster forskellige init kommandoer i et command line interface. En masse tekst ruller over skærmen, til sidst blinker en enkelt linje hvidt på sort:
 
-"Det er bare en lokal testversion nu, kun adgang lokalt. Når vi går rigtig live bliver det fra havet, via antennen og sattelitter." Laika åbner en browser på en localhost url. "Så, nu kan du prøve," hun flytter sig, giver Hamed pladsen.
+< BitState er live.
+
+"Det ligger kun lokalt nu. Når vi seeder protokollen i æteren bliver det fra havet, via antennen og sattelitter. Så spreder den sig." Laika åbner en browser på en localhost url. "Så, nu kan du prøve," hun flytter sig, giver Hamed pladsen.
+
+Hamed kigger på en næsten blank side. Øverst står der med små monospace seriffer: BitState. Lige nede under, et link: Bliv borger.
+
+Hamed har hørt de gamle fortælle om dengang der var processer. Dengang statsløse kunne ansøge om asyl, opholdstilladelse, familiesammenføring, statsborgerskab. Statsborgerskab. Det ultimative privellegie.
+
+Hamed trykker på linket. Et bot interface dukker op på skærmen. Stiller et spørgsmål.
+
+< Hvad er dit navn?
+
+Hamed skriver:
+> Hamed Mansur↵
+
+< Velkommen til BitState, Hamed. For at kunne identificere dig, skal du lave en privat nøgle. Rør ved skærmen.
+
+Hamed skærver op til NS Abadabadajs samlede besætning, der pludseligt alle står og kigger. De nikker opmuntrende.
+
+Hamed lader tre fingre køre over glasset. Berøringen sender farvede bølger over skærmen.
+
+< Mere.
+
+Hamed klimter febrilsk med ti fingre. Hele skærmen eksploderer i farver.
+
+< Tak. Indtast et løsen.
+
+Hamed er god til kodeord. Koden til hans skærm er "Kræng fladerne op maskine!". Umuligt at glemme når man først én gang har mentalt befalet det. Umuligt at gætte for menneske eller maskine.
+
+Hamed tænker lidt. Og taster.
+
+> Karantæne karatfontæne.
+
+
+
+
+
 
 
 

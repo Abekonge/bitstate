@@ -3,6 +3,22 @@ Bitstates arkitektur
 Bitstates arkitektur ligger på decentralt anonym hosting, der er baseret på TOR og bittorrent. (ELLER GØR DET?)
 Beslutninger kører på en fork af bitcoin, hvor man får tildelt stemmer baseret på ens medlemskab af bitstate, dvs. et væsen = 1 stemme per afstemning. Blockchain er den decentrale database ledger der holder styr på at alt er rigtigt og at der ikke kan snydes.
 
-Rettigheder i forhold til at modificere kode, at committe kode til bitstate, styres samtidig af blockchain: 
+Rettigheder i forhold til at modificere kode, at committe kode til bitstate, styres samtidig af blockchain:
 
 En afstemning der afgør om noget skal ændres eller tilføjes til Bitstates kode, skal i sin opsætning definere hvilke områder der skal gives adgang til i koden, og hvem der evt får adgang til koden. Så hvis de rigtige afstemninger bliver gemt i blockchain og giver en specifik udvikler adgang til at committe kode til et område af bitstate, så kan bitstates kilde-repo tjekke om de rent faktisk har adgang, ved et simpelt opslag i blockchain. På den måde er det decentrale direkte demokrati sikret i alle områder af Bitstates udvikling.
+
+
+
+
+
+Løst:
+Fra Ethereum white paper: https://github.com/ethereum/wiki/wiki/White-Paper :
+
+The mechanism behind proof of work was a breakthrough because it simultaneously solved two problems. First, it provided a simple and moderately effective consensus algorithm, allowing nodes in the network to collectively agree on a set of updates to the state of the Bitcoin ledger. Second, it provided a mechanism for allowing free entry into the consensus process, solving the political problem of deciding who gets to influence the consensus, while simultaneously preventing sybil attacks. It does this by substituting a formal barrier to participation, such as the requirement to be registered as a unique entity on a particular list, with an economic barrier - the weight of a single node in the consensus voting process is directly proportional to the computing power that the node brings. Since then, an alternative approach has been proposed called proof of stake, calculating the weight of a node as being proportional to its currency holdings and not its computational resources. The discussion concerning the relative merits of the two approaches is beyond the scope of this paper but it should be noted that both approaches can be used to serve as the backbone of a cryptocurrency.
+
+=== en konsensus algoritme hvor alle kan være med, hvor der ikke kan snydes, er politisk/organisatorisk dynamit.
+
+
+Challenge: https://en.wikipedia.org/wiki/Sybil_attack Sybil attack. Spoofing identities to wack reputation systems.
+
+A Merkle tree is a hash of hashes.
