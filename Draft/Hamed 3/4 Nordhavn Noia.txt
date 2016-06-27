@@ -56,15 +56,65 @@ Hamed lader tre fingre køre over glasset. Berøringen sender farvede bølger ov
 
 < Mere.
 
-Hamed klimter febrilsk med ti fingre. Hele skærmen eksploderer i farver.
+Hamed klimter febrilsk med ti fingre. Hele skærmen skvulper i farver.
 
 < Tak. Indtast et løsen.
 
-Hamed er god til kodeord. Koden til hans skærm er "Kræng fladerne op maskine!". Umuligt at glemme når man først én gang har mentalt befalet det. Umuligt at gætte for menneske eller maskine.
+Hamed er god til kodeord. Koden til hans skærm er "Kræng fladerne op maskine!".
 
 Hamed tænker lidt. Og taster.
 
-> Karantæne karatfontæne.
+> Hav sky land mand. Dans! ↵
+
+Maskinen svarer med det samme.
+
+< Tak. Din private nøgle er klar. Den bør opbevares et sikkert sted.
+
+En lille boks ved siden af skærmen virrer og spytter en lang rulle papir ud. Boksen bider enden af og den falder ned på bordet foran Hamed. Han tager den, øverst står der
+
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
+efter fulgt af linjer med
+
+hmhkYHxBJ5HoLfD2I9y38eGrwHDZ8adLF1Kgn0zu+L6kZ0HnCbzOSY6m2dOxKsIc
+Zq1onvZ0R7mSdDXTqbmFb5NCrmt7BcWOQ1GkDSm9DL2tbLNZnvxxHDo2u4uPpCQj
+3DO645kz2kAD0CjA0/XYr7jWllaf/zUefpw56pQ9ROA7VsdfvP5QUgacrQGlvJWl
+
+rundt og rundt i den lille rulle papir.
+
+Det her er kryptografi, noget helt andet end bare at have et kodeord. Militære hemmeligheder og spioner. Hamed ved kun lidt om det, men han ved at hvis det her ikke bare er for sjov, kommer han til at taste disse tusindvis af karakterer ind ét af gangen. Men måske er det bare for sjov.
+
+Hamed kigger op på Laika. "Er det et spil?" Han ved lige så snart at han spørger, at det ikke er. Alt hvad der er sket giver kun mening hvis det her er alvorligt. Pisse alvorligt. Af med hovedet alvorligt. Karneval hver dag alvoligt.
+
+Hun smiler oprigtigt, "På en måde. Gæt igen."
+
+Hamed folder rullen fladt og skubber den i en sikker lomme.
+
+Skærmen blinker
+
+< Velkommen bitizen Hamed. Du er nu borger i Bitstate. For at aktivere dine fulde stemmeret skal tre bitizens kryptografisk bekræftige at de bevidnede din optagelse. Du skal angive tre konfidenter som sikkerhedsbackup.
+
+< Som borger i bitstate modtager du borgerløn. Du opkræves 40% af din borgerløn i skat. Det koster 100 euro at aktivere dit bitizenship. Den nuværende borgerløn før skat er på 3 euro om måneden. Den forventes at blive højere, bitizens deler solidarisk profit, kryptografisk garanteret. Læs mere(link).
+
+< Du stiller cpu cycles, og memory tilgængelig for bitstate. Du bestemmer hvad det skal bruges til.
+
+
+Læs Bitstates faq/grundlov(work in progress)(link). Læs Bitstates featureliste(link), alpha features(link) og kommende features(link). Vælg forsamlinger du vil stemme i(link). Angiv interesser/ekspertise(link). Smit verden(link).
+
+
+
+rettigheder, så som stemmeret, sygesikring, borgerløn og retten til at rejse
+
+
+
+
+
+
+
+
+
+
+
 
 
 
