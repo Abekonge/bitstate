@@ -1,17 +1,17 @@
 Plotholing
 
-Ok, så Hamed skal levere noget for Yuri til båden i Nordhavn. Oprindeligt tænkt som en pose penge som en test af Hamed: kunne man stole på ham, ville han åbne og nuppe pengene. Det er noget juks. Nu er det i stedet for mega hot kildekode til bitstates distribuerede serversystem der skal lanceres fra internationalt farvand vha. sattelitforbindelser / sypphoning på underhavskabler - som skal transporteres airgapped -- fordi [godGrundTilAtVæreParanoid]. 
+Ok, så Hamed skal levere noget for Yuri til båden i Nordhavn. Oprindeligt tænkt som en pose penge som en test af Hamed: kunne man stole på ham, ville han åbne og nuppe pengene. Det er noget juks. Nu er det i stedet for mega hot kildekode til bitstates distribuerede serversystem der skal lanceres fra internationalt farvand vha. sattelitforbindelser / sypphoning på underhavskabler - som skal transporteres airgapped -- fordi [godGrundTilAtVæreParanoid].
 
 Spøgsmål:
 
 * Hvem arbejder #Hellgirl for?
 * Hvem tracker Frontex?
 	Begivenhederne på Nytorv antyder at det enten er #Hellgirl eller mappen - mest mappen. Hvilket ikke rigtig giver nogen mening. Blev han bare forfulgt? Af en operative: Hellgirl? I så fald giver det ikke mening, medmindre det er et alt for convuluted doubblecross hvor Hellgirl lade som om hun også bliver forfulgt at Frontex.
-	
+
 	Possible solution:
 	* Følg Hellgirl som en anden runner, så det at hun arbejder for Frontex faktisk bliver afsløret for læseren og ikke holdt hemmeligt som patches i et plothul i en soap-opera. Det går haywire - vinkel til indsigt i modstanderen. ... hmm handlingen give stadig ikke helt mening.
-	
-	ToDo: 
+
+	ToDo:
 	* Find ud af hvordan og Hvorfor Frontex tracker Hamed.
 		Frontex tracker bare Hamed fordi, han har skudt en drone ned ... yes! Fordi det var en frontex drone selvfølgelig ...
 			men hvorfor mistænker de ham? de gør de bare ... men de har ikke nok på ham?
@@ -19,21 +19,19 @@ Spøgsmål:
 		Løsning: Brug fængslet til at vise Hamed et og andet.
 	* Tilpas plottet så det giver mening i forhold til det.
 		Hvis Frontex tracker hamed giver begivenhederne på nytorv ikke mening - rewrite & reshoot!
-	* Men hvem arbejder #Hellgirl så for? Se det er et mysterie ...	
-	
+	* Men hvem arbejder #Hellgirl så for? Se det er et mysterie ...
+
 		Reshoot af Nytorv:
 		Måske flygter Hellgirl & Hamed sammen? Det var ellers sådan en interessant dynamik.
 		Nej, det er relativt let at fikse: Hamed bliver bare ved at følge efter hende. Men hvordan finder vi Hellgirl igen? Vi spejder.
 	* Sørg for at Hamed får b-mønter uofficielt.
-	
+
 Hvad sker der efter Hamed er sluppet fra Frontex og Hellgirl, med buret skær og mappen med ???
 	Han skal til Nordhavn og op på Skibet. Måske skal han bruge et løsen af en slags for at aflevere mappen. Derefter hvad?
 	Muligheder:
 		Tilbage til Camp C, i forvaring og process.?
-		
+
 		Jeps -- afhørninger, kontinuerlig process a la israel- afhøring, med daglig møde -- men de har intet på hamed... i process bliver det afsløret at de ikke ved hvem hellgirl er, men er i starten meget interesseret? og finder så ud af det og??? holder kæft, eller finder ud af noget andet om hamed eller?....   nej bedre endnu - de finder ud af at Hellgril/evil efterretningstjeneste var interesseret i hamed, og faktisk derfor gerne vil have ham på fri fod -- så efter historien om hellgirl er blevet, spurgt og de først er meget interesserede - så bliver de lige pludselig helt sådang --- fint videre du er på fri fod- vi dropper alle anklager -- fordi de meget ondere ... new world order typer -- vil overvåge hamed og håber at få en vinkel på vitus blink den vej rundt ... jo no jo!
-		
-		
-		
-	
-	
+
+
+		//news: hellgirl arbejder black ops for some quasi-govermental shitbureau wanting to have backdoors in source code - plan is to let hellgirl deliver backdoored software to Sue etc, the hunt on Hamed er igangsat af samme goverment-arm som en red herring der skulle presse hamed til at lettere ville overgive source code til hellgirl --> spørgsmålet er så hvad de har sagt til police og frontex --- som hamed bliver klogere på i forvaring ...!

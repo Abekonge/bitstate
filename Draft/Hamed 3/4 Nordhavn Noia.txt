@@ -1,6 +1,6 @@
-Senere er Hamed på gaden igen, via en åben tagdør, og trapper ned - ingen mennesker på trappen og gadedøren åbnes indefra. Skærmen i madpakke-faraday-bur og mappen ligger sikkert i ryggen. Ingen Frontex bare et væld af handlende. Alt i butikkerne ser mærkeligt ud, som fra en anden planet, smykker, diamanter, forsikringer, krystalglas, porcelænsfigurer. Men også briller, frisørsaloner - bare alien, til mennesker fra en helt anden verden. Men ingen stopper ham, eller råber. Ingen kigger på nogen. Storbymennesker.
+Senere er Hamed på gaden igen, via en åben tagdør, og trapper ned - ingen mennesker på trappen og gadedøren åbnes indefra. Skærmen i madpakke-faraday-bur og mappen ligger sikkert i ryggen. Ingen Frontex, et væld af handlende. Alt i butikkerne ser mærkeligt ud, som fra en anden planet, smykker, diamanter, forsikringer, krystalglas, porcelænsfigurer. Men også briller, frisørsaloner - bare alien, til mennesker fra en helt anden verden. Men ingen stopper ham, eller råber. Ingen kigger på nogen. Storbymennesker.
 
-Senere når han det lille stykke industrihavn der stadig gemmer sig bag de arkitektoniske eksperimenter der er umulige at kommme i nærheden af, gated communities for en hyperrig elite. Nede for enden ligger en et stort skib, metralgråt med rustrød vandlinje og en rustrød stribe omkring broen. Det ligner et krigsskib, men har en brugsindustriel skæring. Spidsen af skibet hælder skråt ned mod vandet, og bærer det rustne lig af hvad der engang har været en harpunkanon. Noget voldsomt er sket med kanonen, den folder sig ud som en metalisk blomt, som en tegneserikanon der er eksploderet. Den sidste af de store hvaler døde sidste år, sabotagen er åbenlys. Nu ligger skibet her. NS Abadabadaj. Bag broen tårner sig en underlig bule Hamed ikke har set før på skibe, måske er det her atommotoren putter sig.
+Senere når han det lille stykke industrihavn der stadig gemmer sig bag de arkitektoniske eksperimenter der er umulige at kommme i nærheden af, gated communities for de hyperrige. Nede for enden ligger en et stort skib, metralgråt med rustrød vandlinje og en rustrød stribe omkring broen. Det ligner et krigsskib, men har en brugsindustriel skæring. Spidsen af skibet hælder skråt ned mod vandet, og bærer det rustne lig af hvad der engang har været en harpunkanon. Noget voldsomt er sket med kanonen, den folder sig ud som en metalisk blomt, som en tegneserikanon der er eksploderet. Den sidste af de store hvaler døde sidste år, sabotagen er åbenlys. Nu ligger skibet her. NS Abadabadaj. Bag broen tårner sig en underlig bule Hamed ikke har set før på skibe, måske er det her atommotoren putter sig.
 
 Hamed nærmer sig, kan se flere gå travlt omkring på dækket, forbereder noget. Travle fokuserede kvinder i færd med at montere hvad der ligner en enorm parabol på toppen af broen.
 Hamed går op til den korte landgangsbro. En kvinde kommer gående, inuit eller asiatisk udseende, på vej ned. Stopper og kigger spørgende på Hamed. Han har haft for travlt med at blive jagtet til at have tid til at forestille sig den forestående situation. Det er måske meget godt - det virkede skørt men sejt da Yuri dansede - nu virker det komplet åndsvagt. Ingen tid, bare dans.
@@ -74,7 +74,7 @@ En lille boks ved siden af skærmen virrer og spytter en lang rulle papir ud. Bo
 
 -----BEGIN PGP PRIVATE KEY BLOCK-----
 
-efter fulgt af linjer med
+efterfulgt af linjer med
 
 hmhkYHxBJ5HoLfD2I9y38eGrwHDZ8adLF1Kgn0zu+L6kZ0HnCbzOSY6m2dOxKsIc
 Zq1onvZ0R7mSdDXTqbmFb5NCrmt7BcWOQ1GkDSm9DL2tbLNZnvxxHDo2u4uPpCQj
@@ -92,37 +92,82 @@ Hamed folder rullen fladt og skubber den i en sikker lomme.
 
 Skærmen blinker
 
-< Velkommen bitizen Hamed. Du er nu borger i Bitstate. For at aktivere dine fulde stemmeret skal tre bitizens kryptografisk bekræftige at de bevidnede din optagelse. Du skal angive tre konfidenter som sikkerhedsbackup.
+< Velkommen bitizen Hamed. Du er nu borger i Bitstate. For at aktivere dine fulde stemmeret skal tre bitizens kryptografisk bekræftige at de bevidnede din optagelse. Du skal angive ydermere tre konfidenter som sikkerhedsbackup.
 
-< Som borger i bitstate modtager du borgerløn. Du opkræves 40% af din borgerløn i skat. Det koster 100 euro at aktivere dit bitizenship. Den nuværende borgerløn før skat er på 3 euro om måneden. Den forventes at blive højere, bitizens deler solidarisk profit, kryptografisk garanteret. Læs mere(link).
+< Som borger i bitstate modtager du borgerløn. Du opkræves 50% af din borgerløn i skat. Det koster 100 euro at aktivere dit bitizenship. Den nuværende borgerløn før skat er på 3 euro om måneden. Bitizens deler solidarisk profit, kryptografisk garanteret. Læs mere(link).
 
 < Du stiller cpu cycles, og memory tilgængelig for bitstate. Du bestemmer hvad det skal bruges til.
 
+< Læs Bitstates faq/grundlov(work in progress)(link). Læs Bitstates featureliste(link), alpha features(link) og kommende features(link). Se bitizens(link). Vælg forsamlinger du vil stemme i(link). Angiv interesser/ekspertise(link). Smit verden(link).
 
-Læs Bitstates faq/grundlov(work in progress)(link). Læs Bitstates featureliste(link), alpha features(link) og kommende features(link). Vælg forsamlinger du vil stemme i(link). Angiv interesser/ekspertise(link). Smit verden(link).
+Til sidst stod der
+
+< BEFRI JORDEN!
+
+med små kapitaler.
+
+Hamed stirrer på den sidste sætning. Klikker på linket til featurelisten. En lang række punkter vælter ned over skærmen. De var alle grå - passive, ikke igangsatte måske. Hameds øje falder på
+
+● Planetær sygesikring
+
+og
+
+● Universel bevægelighed
+
+Han ruller:
+
+● Oceanografisk genoprettelse
+
+og
+
+● Noosphere - kredsløbsbevidstheds-sensornet.
+
+og ruller:
+
+● Weaponized håb: Taktisk metafysik.
+
+og
+
+● Ekstrem tilpasningsparathed.
+
+Hamed klikker tilbage. Klikker på "Se bitizens", der står:
+
+"Der er - 1 - bitizens."
+
+Derefter følger et ikon af en lille blå fisk. Hvorefter der står: "Hamed Mansur".
+
+"Hvad fanden," Laika begynder at klikke, "han er jo sgu den første. Han er den første i seed-protokollen."
+
+Overraskede udbrud igennem lokalet. Nogen spørger, "er det ikke bare en testversion på localhost?".
+
+Hamed ligger mærke til at Sue holder sig for munden - hun griner. Laika klikker febrilsk,"jo det er bare en testversion, men det er den endelige protokol, han er defineret i den universelle hukommelse, i blokkæden, hans hash er en del af det nu." Hun stopper med at taste og kigger op på Hamed med tindrende øjne, "det starter nu."
+
+Sue kan ikke holde sit grin inde længere, hun hiver ham op af stolen og begynder at svinge ham rundt i en dans og  skråler måske fransk-arabisk call-answer folkevise. Folk begynder at klappe i takt, og huje og danse og kramme.
+
+***
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+(senere, på vej, lidt retrospekt med lidt flere detaljer, alle vil oprettes, alle bevidner hinanden, bånd bliver knyttet).
+
+
+/kode bragt med kurer fra hele verden
+
+/skal seedes fra nordsøen til mindst 100.000 i forskellige lande, ellers er der ikke kritisk masse.
 
 rettigheder, så som stemmeret, sygesikring, borgerløn og retten til at rejse
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+11
 Sue giver Hamed en lap papir. Hamed stirrer på den. "1LES6Qsx2DkpC4cU7wuxDw9wQdLFPwwYMt," står der. Hamed kigger op, "Er det?"
 
 "Ja det er. Gem den godt. Du har fortjent dem."
