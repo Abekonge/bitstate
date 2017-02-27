@@ -1,0 +1,134 @@
+"Hvis personen p� skibet, det kan jo lige s� godt v�re en dame, det ved du ikke, ikke er dem de burde v�re, hvis de er kompromiterede af Frontex, er det det du mener?"
+
+"Frontex?" Hamed bliver bange, "Hvad har Frontex med noget at g�re?"
+
+
+
+Yuri tager selv en enhed fra bordet og g�r nogle fagter p� den: � Jeg sender dig GLONASS-kordinaterne til Novo Fortuyn [hvad er det, et andet skibsnavn]. De venter dig, s� du kan g� lige om bord.�
+
+Hamed kigger p� sin sk�rm, han indikere at han gerne vil modtage forsendelsen via n�rb�ndet. Hamed venter stirrende p� sk�rmens stilstand, der er noget der ikke virker. Sk�rmen skriver:
+
+�DU PR�VER AT MODTAGE DATA IGENNEM ET UOFFICIELT NETV�RK DER BRUGES AF HACKERE OG TERRORISTER. NETV�RKET ER KORRUPT OG �DEL�GGER DATA. ABORT-19�.
+
+Yuri kigger op: �Er der et problem?� [Det er n�dvendigt for yuris mission at hamed kan g� p� FreNet - change things]
+
+�Ja. Jeg kan ikke modtage over dit netv�rk, den siger det er korrupt.�
+
+�Korrupt! Ja det siger den vel. Din dims der, den kan ikke forbinde med FreNet?�
+
+�Nej den forbinder kun med Lejrnet.�
+
+�Lejrnet?�
+
+�Ja, det er en sv�rt handicappet version af DanNet. Jeg ved ikke helt hvad forskrifterne er for hvad man kan og ikke kan, for det meste kan jeg se vejrudsigten og se hvor jeg er p� et kort, og nogle nyheder - den slags. Selvf�lig ogs� beskeder til asyln�gtede, advarsler, ordre og den slags. Nogle gange lukker det bare ned, det er ret skidt.�
+
+�Vil det sige at du aldrig har v�ret p� FreNet - aldrig redet den frie information?�
+
+�Alts�, mekanikeren i Camp C - Paven, han havde en gammel desktop-box hooked up igennem nogle piratkabler for nogle �r siden - f�r de begyndte at raide hans workshop regelm�ssigt. Mig og nogle venner vi var inde og se ...du ved ...�
+
+�I s� porno?�
+
+�Nej alts�, bare bryster, bare bare bryster - du ved...�, Hamed kigger ukomfortabelt igennem et hul i v�ggen, det ser ud som om der er en brand inde i byen, tyk fed r�g over varmeflimmer i NordVest.
+
+�Og det er det eneste du har set af FreNet?�
+
+��h ja.�
+
+�I guder. Er der s� ingen i Camp C der har adgang?�
+
+�Niks, det er heller ikke tilladt at forbinde til uofficielle netv�rk - da Pavens piratkabler endeligt blev opdaget, beskar de hans kupontildeling helt vildt i flere m�neder - han m�tte leve af skrald...�
+
+�Hmm ...� Yuri g�r i st� et �jeblik med blikket f�stnet et sted over Hameds ene �re.
+
+Efter et �jeblik g�r han hen foran Hamed og r�kker en h�ret n�ve ned mod sk�rmen: �M� jeg se dit apparat?�
+
+��h det m� du vel�, Hamed r�kker sk�rmen frem, Yuri tager den og g�r tilbage til sin konsol under den store sk�rm, i en skuffe finder han et multitool og begynder at lirke coveret af sk�rmen.
+
+Hamed n�rmer sig: ��hh ved du hvad du g�r?�
+
+�Ja ja, har du aldrig skilt den ad?�, coveret komme af sk�rmen med en helt forkert lyd.�
+
+��h nej, hvis den g�r i stykker kan jeg ikke k�be mad, og jeg skal betale for en ny. Med renter. Og den er dyr.�
+
+�Tsk tsk. Man skal altid skille ting ad - hvordan skulle man ellers vide hvordan den virker, hvordan skulle man ellers l�re noget - eller kunne stole p� sine v�rkt�j. Da jeg var ung, levede jeg af at skille mobiltelefoner ad...�, Yuri tager nogle kabler og p�dutter dem forskellige steder inde i selve sk�rmen. P� den store sk�rm k�rer han nogle konsoller som Hamed g�tter p� tapper ind i sk�rmens software og muligvis �ndrer p� det.
+
+�Hmm, jeg pr�ver at lave en firmware patch der spreder sig som en wireless virus via lejrsk�rmens device-id-grab - s� du eventuelt kan give andre i lejren adgang til FreNet. Hmm interessant. Sk�rmen her har en hel bunke af consistency-checks - den unders�ger hele tiden om der er nogle der har rodet med den og rapportere tilbage til en mother-server regelm�ssigt. Men det er et klassisk erkendelses-problem, for at vide om den er som den tror den er, skal den have noget at sammenligne med - en reference at s�ge tilbage til, men hvordan ved man at referencen ikke ogs� er �ndret - s� vi �ndrer dens parametre for intern consistency til at v�re defineret af hvad dens sensorparametre fort�ller den - og laver dermed et loop af evig okay-hed - h� det skal sgu nok forvirre dem inde p� Centralen.�, Yuri frakobler ledningerne og skruer bagsiden p�. [teknokbabl der ikke er godt!]
+
+�Jeg forst�r ikke - du fort�ller maskinen at der ikke er sket nogle �ndringer da den kun har �ndringerne at sammenligne med? Alts� jeg kan i princippet blive uden for Camp C uden den rapporterer det, for den kan vel ikke vide at den er ude hvis den ikke ved der er et inde?�
+
+�I princippet har du ret - men det er slet ikke de rutiner jeg har �ndret - den rapportere jo stadig GLONASS-koordinaterne - s� hvis nogle s� efter ville de kunne se at noget var galt ... - alts� de ville v�re mere kompliceret at �ndre. Jeg har bare pillet ved de helt grundl�ggende anti-probe-rutiner.�
+
+�N� men har jeg s� adgang til FreNet?�
+
+�Ja,� Yuri giver Hamed den modificerede sk�rm: �De frie netborgeres sidste bastion, den rygende ruin af www, resterne af menneskehedens fineste skabning: FreNet er i dine h�nder!�
+
+Hamed t�nde sk�rmen og fifler lidt: �Hvordan virker det?�
+
+�Der ligger et link der hedder FreNet - pr�v at �bne det.�
+
+Hamed g�r som Yuri siger. Fingerer linket s� det �bner. Men i stedet for den s�dvanlige grafisk animerede metafor for indbundet papir, der s� smukt efteraber et d�dt medie, er der kun en blinkende cursor i et tomt felt.[wut?]
+
+�Hvad s� nu?�
+
+�Du skal skrive adressen p� det du gerne vil se. Hvis du for eksempel vil bruge de kordinater jeg lige sendte dig skal du g� ind p� 'FreGlonass.net'�
+
+Hamed taster adressen og kommer frem til et navigations-interface ikke ulig det han i forvejen har, Yuri gensender kordinaterne og Hamed f�r efter lidt ventetid en placering ude i Nordhavn, et par meter ude i vandet. Ved krydset st�r der 'MS ABADABADAJ'.
+
+�Det virker jo fint nok, men det er alts� meget nemmere bare at bruge mit normale kort...�
+
+�Ja det er det, og det er det der er problemet. Centralen ved hele tiden hvor du er, men n�r du bruger dit normale kort til at navigere efter ved de ogs� hvor du vil hen og hvor du ville hen ig�r og for en m�ned siden kl 23 - hvilket er guld v�rd i deres prediction-modeller - det giver dem adgang til dine planer, til hvordan du t�nker. Men n�r du navigerer ved hj�lp af FreNet ved de ikke noget - mellemmanden er sk�ret v�k, eller det vil sige - mellemmanden er et kaotisk distribueret netv�rk uden logning. Men alts�, du kan gemme FreGlonass.Net som et andet dokument - og s� det n�sten lige s� hurtigt som dit normale kort� [spred FreNet?]
+
+�Kan jeg forbinde til FreNet overalt - og hvorfor er det ikke bedre kendt? Hvorfor er det ikke alle der bruger det?�
+
+�Desv�rre nej, T�rnet du st�r i er den prim�re sender i Danmark - min egen opfindelse - men den d�kker kun en radius p� 50 km [?]. Ellers er der lokale sendere rundt omkring - men langt de fleste steder kan du ikke - og her i K�benhavn er der flere steder sat antisendere (?) op der disrupter signalet - s� du kan ikke regne med det. Engang var det kendt - alt net du kender idag kommer fra FreNet's ophav - world wide web, men efterh�nden som det blev en liges� grundl�ggende infrastruktur som str�m og vand - tog de overstatslige organer og  regeringer og d�dskapitalister initiativ til i st�rre og st�rre grad at indhegne nettets forskellige dele - s� de kunne kontrolleres og v�rdis�ttes og opkr�ves penge for og overv�ges. Og det originale www blev marginaliseret og undertrykt. Nu kun holdt i live af entusiaster og aktivister - langsomt og ustabilt. Men vi har stadig fordelene og overalt bliver der lavet nye piratsendere - dog er det en kamp op ad bakke. Desv�rre er vi stemplet som havn for terrorister, hackere, og p�dofile osv.�
+
+Yuri vender sig om mod den store sk�rm igen, og fremmaner et kort hvorp� Hameds destination - skibet i Nordhavn var p�duttet blinkende kryds: �Det er vigtigt for den her mission at du kun bruger netservices over FreNet. Men som en ekstra bonus - jeg har lagt et program der hedder SpredFreNet, med det kan du patche andre Lejrsk�rme med FreNet-adgang - de skal bare acceptere det over n�rb�ndet. S� kan du sprede budskabet lidt. Sjovt nok er Camp C et af de steder i CPH der er bedst modtagelse af FreNet - s� der burde v�re let adgang for alle.�
+
+Hamed f�ler sin sk�rm br�nde i h�nden som et tr�dl�st virus-informations-fyrt�rn af muligheder: �Det er virkelig sejt - kan vi ... kan vi sende beskeder der ikke bliver overv�get ogs� - kan vi undg� det?�.
+
+En udbredt sygdom i Camp C er en form for omvendt paranoia - den livslange bevidsthed om at alt bliver overv�get - alle tekster l�st, alt lyd aflyttet - gjorde at nogle k�rte et konstant kommentator spor til deres eget liv - hele tiden skrev om deres status - ikke til nogen specielt men kun til �re for overv�gerne - en slags spejlende bekr�ftigelse af eksistens. Hameds f�tter HRung omtalte f.eks kun sig selv i tredje person som en effekt af denne sygdom.
+
+�Ork ja - det er n�rmest et af de allerbedste m�der at bruge FreNet p� - du kan for eksempel bruge chitchat.net - eller s�ge efter lignende services p� altavista.Com /�ndr- det er sted hvor du kan s�ge p� FreNet efter lige hvad du vil. Et af hemmelighederne ved FreNet er at alt hvad der nogensinde har st�et p� www gemmer sig et sted herinde, nogle ting i arkiver, nogle ting i deep web - men det er der - s� det er en informationskilde af ufattelige dimensioner - hvis man ved hvordan man skal bruge det�
+
+�Det er godt!� Hamed st�r lidt og ved ikke hvordan han skal h�ndtere disse muligheder - uoverv�get kommunikations revolution�re potens kogende lige under hans sinds beviste overflade.
+
+Yuri tager initiativet: �S� alts� - lev�r kufferten til Niels p� Novo Fortuyn - de venter dig. Inden klokken 18 - brug kun FreNet-services til navigation og kommunikation ang�ende opgaven.�
+
+�Hvordan f�r jeg fat i dig?�
+
+�Det g�r du ikke - jeg f�r fat i dig. Skriv et indl�g p� forummet p� tongxinglianhaitun.cn under navnet astroboy - s� svarer jeg dig. Hvis du klarer opgaven kan der v�re flere jobs. Held og lykke.� [info til hamed hvordan - t�nk over frenet-struktur]. /�ndr
+
+
+
+"Ja det har jeg faktisk godt h�rt om. DanNet er ikke ucensureret, men blablabla....
+
+
+
+Hvad hedder det net du har p� den der?" Yuri gestikuler mod faraday-samovaren.
+
+"LejrNet. Det en begr�nset version af DanNet. Man kan ikke s� meget."
+
+"Ja LejrNet, det er rigtigt. DanNet er ligesom LejrNet. Det en begr�nset version af det der engang bare hed Internettet. Alle sider p� DanNet er godkendt af IT-styrelsen. Hvis man skal bruge sider der ikke er godkendt, skal man p� et andet netv�rk..."
+
+"S� T�rnet her forbinder til sider udenfor DanNet?"
+
+...argh
+
+
+
+
+Man kan se vejrudsigten, navigation, skrive beskeder, nogle nyheder - den slags. Selvf�lig ogs� min status, zonekontrol, arbejde, kuponer, dine penge, advarsler, ordrer og den slags.�
+
+
+
+
+
+�Desv�rre nej, T�rnet du st�r i er den prim�re sender i Danmark - min egen opfindelse - men den d�kker kun en radius p� 50 km [?]. Ellers er der lokale sendere rundt omkring - men langt de fleste steder kan du ikke - og her i K�benhavn er der flere steder sat antisendere (?) op der disrupter signalet - s� du kan ikke regne med det. Engang var det kendt - alt net du kender idag kommer fra FreNet's ophav - world wide web, men efterh�nden som det blev en liges� grundl�ggende infrastruktur som str�m og vand - tog de overstatslige organer og  regeringer og d�dskapitalister initiativ til i st�rre og st�rre grad at indhegne nettets forskellige dele - s� de kunne kontrolleres og v�rdis�ttes og opkr�ves penge for og overv�ges. Og det originale www blev marginaliseret og undertrykt. Nu kun holdt i live af entusiaster og aktivister - langsomt og ustabilt. Men vi har stadig fordelene og overalt bliver der lavet nye piratsendere - dog er det en kamp op ad bakke. Desv�rre er vi stemplet som havn for terrorister, hackere, og p�dofile osv.�
+
+Hamed tager hardtopkufferten og ligger den ned i vads�kken indbygget i rygstykket p� hans jakke [...], g�r ind i telefonboksen og ser Yuris ryg, der langsomt og rystende forsvinder.
+....
+
+
+Udover alu-pladen er der pålimet LCD-tape der projicerer en besked på forskellige sprog, Hamed genkender mandarin, arabisk, engelsk, spansk, noget der måske er swahili, hindi, grønlandsk eller et andet inuit-sprog og dansk. Den danske version lyder: "Temporær Autonom Zone siden", og så en dato, faktisk dagens dato. Og så til sidst: ""
+
+Du forlader nu Frankrig POW POW POW. [international fælled/-TAZ-manifest?}
