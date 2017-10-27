@@ -2,7 +2,7 @@
 
 “Vent lidt, Ërsuk vent.”
 
-“Kom nu, hvis den bliver tracket som Onkel Ffoto siger ...”
+“Kom nu, hvis den bliver tracked som Onkel Ffoto siger ...”
 
 “Hør nu her, der er tusindvis af dem her - og de falder sikkert ned hele tiden.”
 
@@ -14,9 +14,9 @@
 
 “Grandonkel. Jeg vidste godt han var blevet dræbt i en intifada, men sgu ikke at det var en drone der gjorde det.” Hamed rakte den ene suppe til Ërsuk: “Det er tang.”
 
-Pavens workshop ligger i den gamle smedje, et af de få bygninger i Camp C der ikke blev erstattet med stålbeton, så bygningen står som på bunden af en brønd med vægge af vertikale ghettoer. 
+Pavens workshop ligger i den gamle smedje, et af de få bygninger i Camp C der ikke blev erstattet med stålbeton, så bygningen står som på bunden af en brønd med vægge af vertikale ghettoer.
 
-Paven er ligesom Onkel Ffoto selvstændig på Camp C's præmisser - hans niche er at reparerer ting. Og da ting altid går i stykker har han nok at lave. 
+Paven er ligesom Onkel Ffoto selvstændig på Camp C's præmisser - hans niche er at reparerer ting. Og da ting altid går i stykker har han nok at lave.
 
 Hamed og Ërsuk skubber prøvende til den store dobbeltdør i massivt støbejern, den er åben. Pavens workshop er et langt åbent rum, der er intet loft, men metalplatforme oppe unde taget, forbundet med stiger og gangbroer. Da Hamed var mindre havde han tit leget her - det var et perfekt sted at have episke opgør med superskurke. Alle flader er fulde af skrammel og maskiner, hårde hvidevarer og motorer, gamle skærme og alle mulige antikke mekaniske himstregimster. Ovre i det ene hjørne gløder det intenst, Paven har i det sidste stykke tid fået en pludselig interesse for at smede ting, knive og sådan noget. Han står netop som Hamed og Ërsuk kommer ind med ryggen til og banker løs på et eller andet stakkels stykke metal. Idet Hamed løfter hånden for at banke på den åbne dør, stopper Paven og vender sig om:
 
@@ -26,11 +26,11 @@ Hans øjne er blodskudte fra den åbne esse, han sænker langsomt hammeren.
 
 “Vi har fanget en drone, eller Ffoto har skudt en drone ned,” Hamed indikerer kassen i Ërsuks favn: “Han sagde vi skulle aflevere den til dig, at du måske kunne lave den...”
 
-“For fanden,” Paven ligger forsigtigt metallet tilbage i essen med en lang tang og går over til noget der ligner et slags metalbur: “han har ikke afkoblet senderen kan jeg næsten regne ud. Kom, put den ind i buret.”  
+“For fanden,” Paven ligger forsigtigt metallet tilbage i essen med en lang tang og går over til noget der ligner et slags metalbur: “han har ikke afkoblet senderen kan jeg næsten regne ud. Kom, put den ind i buret.”
 
-Ërsuk giver dog kassen til Paven, der forsigtigt hælder dronen ind i et fintmasket kobberfuglebur og lukker det. 
+Ërsuk giver dog kassen til Paven, der forsigtigt hælder dronen ind i et fintmasket kobberfuglebur og lukker det.
 
-“Sådan. Jeg har sagt til Ffoto utallige gange at han skal lade være med at komme med droner medmindre han isolerer dem i bly. De sender jo hele tiden data til deres modersystemer - dermed også deres GPS/GALILEO/GLONASS-position - det ender sgu med at de raider min workshop - og så er det khalas, finito og endlösnung. Men lad os nu se hvad vi har her, det ser ud til at være en ny model...” 
+“Sådan. Jeg har sagt til Ffoto utallige gange at han skal lade være med at komme med droner medmindre han isolerer dem i bly. De sender jo hele tiden data til deres modersystemer - dermed også deres position - det ender sgu med at de raider min workshop - og så er det khalas, finito og endlösnung. Men lad os nu se hvad vi har her, det ser ud til at være en ny model...”
 
 Hvorfor har du sat den i et bur, spørger Ersük? Er du bange for den flyver væk?
 
@@ -38,7 +38,7 @@ Hvorfor har du sat den i et bur, spørger Ersük? Er du bange for den flyver væ
 
 "Wow hvor fedt", siger Hamed, "hvordan virker det - skal det bare være et bur?"
 
-"Det er magi," Paven hoster, roder i bunker og skuffer, prøver at finde noget, "Nej, når buret er af strømledende materiale, kan elektromagnetisme ikke komme ind og ud. En bil er et Faraday-bur, derfor sikkert for lyn. Men størrelsen af hullerne i buret afgør hvad der slipper ud, så i en bil kan du bruge din skærm. Fordi skærme kommunikerer med bølgelængder der sagtens kan komme ud af vindue, 14 cm. Intet problem. Hvis du skal blokere skæmsignaler skal hullerne være mindre en 3 cm. Men det er ikke perfekt." Paven hiver en lille 12kantet plastiskdims ud af rodet, "Hai! Der var den." Han åbner hurtigt buret og smider den derind. "Det her er en signal-recorder, så vi kan vinde ud af om vi bliver tazed og svinebundet om lidt."
+"Det er magi," Paven hoster, roder i bunker og skuffer, prøver at finde noget, "Nej, når buret er af strømledende materiale, kan elektromagnetisme ikke komme ind og ud. En bil er et Faraday-bur, derfor sikkert for lyn. Men størrelsen af hullerne i buret afgør hvad der slipper ud, så i en bil kan du bruge din skærm. Fordi skærme kommunikerer med bølgelængder der sagtens kan komme ud af vindue, 14 cm. Intet problem. Hvis du skal blokere skæmsignaler skal hullerne være mindre en 3 cm. Men det er ikke perfekt." Paven hiver en lille 12kantet plastiskdims ud af rodet, "Hai! Der var den." Han åbner hurtigt buret og smider den derind. "Det her er en signal-recorder, så vi kan finde ud af om vi bliver tazed og svinebundet om lidt."
 
 Kort efter tager Paven dimsen ud og smækker buret i. Han tager en skærm-lignende gadget op ad sit læder-forklæde og forbinder den til dimsen med en lille sort ledning. Hamed går tættere på og prøver at følge med. Paven trykker lidt på sin gadget og ser tænksom ud: “Den sender stadig, men med meget svage signaler. Medmindre den var direkte kontrolleret fra nærområdet burde vi være i sikkerhed.”
 
