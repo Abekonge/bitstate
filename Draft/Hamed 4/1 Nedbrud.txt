@@ -68,6 +68,7 @@ Spørger så,"hvem var kvinden på Nytorv?"
 
 "Du ved hvad jeg snakker om din lille abe. For tre dage siden, efter du modsatte dig i metroen, hvem var kvinden sammen med dig? Hende der ødelagde 4 crowdcontrol droner." Manden begynder at råbe, "Gav du hende sprængstofferne?"
 
+<<<<<<< HEAD
 "Jeg ved ikke —"
 
 Manden spytter, "Hvem var hun, abedreng?"
@@ -75,20 +76,35 @@ Manden spytter, "Hvem var hun, abedreng?"
 "Jeg aner ikke hvem hun er dit, dit fede fascistsvin," knækker Hameds stemme.
 
 Manden rejser sig, så stolen vælter, tager et skridt hen mod Hamed og slår sin knytnæve hårdt ind i Hameds ansigt. Hameds hoved rammer væggen bag briksen. Manden løfter hånden igen, væggen begynder at køre ned, manden må springe tilbage for ikke at blive spærret inde med Hamed.
+=======
+"Jeg aner ikke hvem hun er dit fede fascistsvin," knækker Hameds stemme.
+
+Manden rejser sig, så stolen vælter, tager et skrift hen mod Hamed og fører sin knytnæve hårdt ind i Hameds ansigt. Hameds hoved rammer væggen bag briksen. Manden løfter hånden igen, væggen begynder at køre ned, manden må springe tilbage for ikke at blive spærret inde med Hamed.
+>>>>>>> 8c27296cd5872100d031d9c755dda7858fcfc209
 
 Hamed rejser sig op, svimler sig ned igen. Væggen tuhnk klonker ned i gulvet. De har ikke noget på ham. De sætter ham ikke på et fly. Hamed begynder at græde ukontrolleret.
 
 ***
 
+<<<<<<< HEAD
 Hamed vågner. To mænd står over ham. Han slår ud efter dem. De griber hans hænder og tvinger dem om på ryggen. Ligger ham i håndjern. Men de slår ham ikke. Han har ikke set dem før.
+=======
+Hamed vågner. To mænd står over ham. Han slår ud efter dem. De griber hans hånd og tvinger den om på ryggen. Ligger ham i håndjern. Men de slår ham ikke. Han har ikke set dem før.
+>>>>>>> 8c27296cd5872100d031d9c755dda7858fcfc209
 
 "Hvad skal jer? Hvor skal jeg hen?"
 
 "Du skal komme med os," siger den ene, ikke uvenligt. Væggen er oppe og den anden går hen og åbner døren ved siden af spejlet, går igennem og holder døren. "Kom så går vi."
 
+<<<<<<< HEAD
 Hamed rejser sig usikkert. Det gør ondt i hovedet og på kindbenet. Forhørsmanden slog hårdt. Mændene leder ham igennem lange gange med mange døre. Da de tog Hameds far lagde de ham også i håndjern bag ryggen. Men først efter at have lynet ham ind i en hvid heldragt, der indesluttede ham totalt, et net foran munden. Hamed husker hvordan han råbte nej nej nej nej, da han blev slæbt ud af de euroblå.
 
 Til sidst når de en elevator hvor de kører op fra -5. Hamed var deponeret ham dybt under jorden.
+=======
+Hamed rejser sig usikkert. Det gør ondt i hovedet og på kindbenet. Forhørsmanden slog hårdt. Mændene leder ham igennem lange gange med mange døre. Da de tog Hameds far lagde de ham også i håndjern bag ryggen. Men først efter at have lynet ham ind i en hvid heldragt, der indesluttede ham totalt, der var blot et net foran munden. Hamed husker hvordan han råbte nej nej nej nej, da han blev slæbt ud af de euroblå.
+
+Til sidst når de en elevator hvor de kører op fra -5. De havde faktisk deponeret ham dybt under jorden.
+>>>>>>> 8c27296cd5872100d031d9c755dda7858fcfc209
 
 Elevatoren dinger dem ud i en stor foyer i stål og glas og højt op. Mændene leder Hamed forbi receptionen hvor folk sidder roligt og taster. Ingen kigger op. Igennem svingdørene og ud på en tom hvid plads. En vender Hamed og åbner håndjernene. En anden tager Hameds skærm fra en lomme og rækker den frem.
 
@@ -106,4 +122,8 @@ Hamed tager den rystende, "Hvad sker der?"
 
 "Vi er færdige med dig." siger den ene. "Men vi holder øje med dig."
 
+<<<<<<< HEAD
 Hamed bakker væk fra dem. De bliver stående. Hamed vender sig og løber humpende væk fra mændene. Væk fra Frontex HQ. Ned mod vandet. Mod lejren.
+=======
+Hamed bakker væk fra dem. De bliver stående. Hamed vender sig og løber humpende væk fra mændene. Væk fra Frontex HQ. Ned mod vandet.  
+>>>>>>> 8c27296cd5872100d031d9c755dda7858fcfc209
