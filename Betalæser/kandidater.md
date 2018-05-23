@@ -2,8 +2,7 @@
 * Ask
 * Kirsten
 * Jan
-
-* Martin 
+* Martin
 * Jesper Maarbjerg
 * Lars Maskinen
 * Cecilie ?
